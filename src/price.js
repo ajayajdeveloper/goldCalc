@@ -46,7 +46,7 @@ export default function Price() {
 
       </FormControl> 
         </Paper>
-        </Grid>
+        </Grid> 
     )
 }
 
